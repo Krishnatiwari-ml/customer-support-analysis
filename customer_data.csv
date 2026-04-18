@@ -1,0 +1,11 @@
+Customer_ID,Calls_Handled,Avg_Resolution_Time,CSAT,Issue_Type
+1,45,5,4,Billing
+2,50,6,5,Technical
+3,38,7,3,Billing
+4,60,4,5,Account
+5,55,5,4,Technical
+6,48,6,4,Billing
+7,52,5,5,Account
+8,47,7,3,Technical
+9,58,4,5,Billing
+10,53,6,4,Account
